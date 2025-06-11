@@ -1,0 +1,11 @@
+.titulo{
+    color: blue;
+    font-size: 24px;
+    text-align: center;
+}
+
+.contenido{
+    background-color: lightgray;
+    padding: 20px;
+    border-radius: 5px;
+}
