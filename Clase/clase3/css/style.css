@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.seccion-visible{
+    display: block;
+    background-color: navy;
+    color: white;
+}
+
+.seccion-oculta{
+    display: none;
+    background-color: black;;
+}
+
+.espacio-visible{
+    display: block;
+    background-color: green;
+    color: white;
+}
+
+.texto-espacio-necesario{
+    display: inline;
+    background-color: red;
+    color: white;
+}
